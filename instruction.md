@@ -7,6 +7,10 @@ Git is one of famous realized system version control working system, which is su
 Create Repository command terminal is *git init* 
 ## Create saved 
 
+
+### Add file to commit
+add the file in commit we use command **git add** means **git add <name of file>**
+
 ## Move between saved versions
 
 ### Execution Commits
